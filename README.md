@@ -30,8 +30,7 @@ Despite its strong reputation, AtliQ Grands has been losing market share and rev
 - City-Specific Strategies: Bangalore, with the lowest occupancy and ratings, could benefit from customer feedback analysis to address service gaps and improve overall experience.
                             For high-performing cities like Delhi, maintaining quality while offering new services can further enhance customer satisfaction.
 
-- Peak Season Preparation: Since May sees the highest bookings, ensure sufficient staffing, efficient service, and special promotions during this period to enhance customer 
-                           satisfaction.
+- Peak Season Promotion: With May experiencing the highest number of bookings, consider offering special packages, incentives, and promotions during this time to further boost demand.
 
 - Room Class Optimization: Given the popularity of Elite rooms, consider increasing availability or offering bundled packages. 
                            To reduce cancellations, implement more flexible booking policies or offer incentives to commit to reservations.
